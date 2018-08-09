@@ -2,14 +2,9 @@
 
 安卓蓝牙调试工具
 
-According to Android SDK Bluetooth Connectivity. I code this BluetoothHelper
-Tools for Debug Bluetooth Connection with other device.
+这是一个蓝牙助手，用于与其它蓝牙设备调试蓝牙连接的工具。是基于Android SDK进行蓝牙连接的。
 
-It's a Eclipse project not suit for Android Studio.
-
-It's just for test, if have any bugs please send mail to tangpan09@gmail.com
-
-Have fun
+这是一个Eclipse工程,不适合使用Android Studio。
 
 ![](http://img.blog.csdn.net/20140517194405578?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbXJfcmFwdG9y/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 ![](http://img.blog.csdn.net/20140517194436984?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbXJfcmFwdG9y/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
