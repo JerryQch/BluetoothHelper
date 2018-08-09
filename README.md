@@ -1,5 +1,6 @@
 # BluetoothHelper
-Bluetooth Debug Tools for Android
+
+安卓蓝牙调试工具
 
 According to Android SDK Bluetooth Connectivity. I code this BluetoothHelper
 Tools for Debug Bluetooth Connection with other device.
